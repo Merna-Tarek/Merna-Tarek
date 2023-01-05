@@ -1,5 +1,5 @@
 
-##### 👋 Hi, I'm Merna :
+<h1 align="center">Hi, I'm Merna 👋</h1>
 
 
 <p align="center">
