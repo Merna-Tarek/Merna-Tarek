@@ -2,7 +2,7 @@
 ##### 👋 Hi, I'm Merna :
 <!--
 **Merna-Tarek/Merna-Tarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
->
+
 <p align="center">
 I'm a data scientist who wishes to solve problems in the world in the world by means of data
 
