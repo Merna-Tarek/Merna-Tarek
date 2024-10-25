@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about **react.js, next 13, .net**
+- 💬 Ask me about **Data Science, Deep Learning, Image processing and NLP**
 
 - 📫 How to reach me **merna.tarek122@gmail.com**
 
